@@ -1,15 +1,16 @@
 {
-  "name": "utrywebtech",
+  "name": "webtech2",
   "version": "1.0.0",
   "description": "Init assignment",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "webtech2"
   },
-  "author": "",
+  "author": "Utry Mate",
   "license": "ISC"
 }
